@@ -1,5 +1,5 @@
 # ImageClassificationDeepLearning
-Here I will show how to loop through a folder containing multiple images and classifying them using Keras and Pre-trained Netowrks.
+Here I will show how to loop through a folder containing multiple images and classifying them using Keras and Pre-trained Networks.
 
 #TENSORFLOW #KERAS #NN #NEURALNET #INCEPTIONV3 #MACHINELEARNING #DEEPLEARNING
 

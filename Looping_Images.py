@@ -6,7 +6,7 @@ import os
 # Load pre-trained image recognition model
 model = inception_v3.InceptionV3()
 
-path = 'C:/Users/saptarshi.basu/PycharmProjects/Image-KC/'
+path = '../ImageInput/'
 #directory = os.fsencode(directory_in_str)
 
 for image_path in os.listdir(path):
